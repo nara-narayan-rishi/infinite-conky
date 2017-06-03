@@ -2,7 +2,7 @@
 # A bash script that starts two separate conky configurations
 #
 # this script starts the configs meant for a single-screened system
-#   this means that the trees are placed on each side of the screen opposite of
+#   this means that the conky panes are placed on each side of the screen opposite of
 #   each other
 
 # starts conky scripts
